@@ -1,6 +1,6 @@
 ## newtest
 
-1. [copypath](uppili16/newtest/docs/firstcategory/secondcategory/README.md)
-2. [copyrelativepath](docs/firstcategory/secondcategory/README.md)
+1. [copypath](https://srini-test.document360.io/docs/readme-3)
+2. [copyrelativepath](/docs/readme-3)
 link
-[copypath](/uppili16/newtest/docs/firstcategory/secondcategory/README.md)
+[copypath](https://srini-test.document360.io/docs/readme-3)
